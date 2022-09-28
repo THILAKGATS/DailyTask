@@ -4,7 +4,7 @@ public class DuplicateTsk {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int [] arr= {2,2,4,6,8,0,8,9,3,4,6};
+		int [] arr= {2,2,4,6,8,0,8,9,3,4,6,2,2,4,6,83};
 		
 		for(int i =0;i<arr.length;i++)
 		{
@@ -17,7 +17,7 @@ public class DuplicateTsk {
 				
 			}
 			
-			
+			 
 		
 		}
 
